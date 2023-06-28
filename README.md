@@ -6,4 +6,3 @@ Salesforce is a cloud-based customer relationship management (CRM) platform that
 The Developer Super Set capstone is a Salesforce credential made up of two superbadges.
 1. Apex Specialist
 2. Process Automation Specialist
-   Complete these superbadges to unlock this super set capstone, then complete the challenges below to earn the Developer Super Set.
