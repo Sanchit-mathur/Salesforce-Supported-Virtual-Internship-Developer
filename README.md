@@ -7,4 +7,7 @@ The Developer Super Set capstone is a Salesforce credential made up of two super
 1. Apex Specialist
 2. Process Automation Specialist
 
-##Trailhead URL: https://trailblazer.me/id/smathurra2011028010098
+##
+Trailhead URL: 
+
+https://trailblazer.me/id/smathurra2011028010098
