@@ -8,6 +8,6 @@ The Developer Super Set capstone is a Salesforce credential made up of two super
 2. Process Automation Specialist
 
 ##
-Trailhead URL: 
+## Trailhead URL: 
 
 https://trailblazer.me/id/smathurra2011028010098
